@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Niru! 👋
 
 <!--
 **nirumano/nirumano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🧑🏾‍💻 Software Engineer sharing about my journey and learnings in tech
+📚 Studied CS @ Western Governors University & Information Systems @ McMaster University 
+💭 Currently learning about iOS Development!
