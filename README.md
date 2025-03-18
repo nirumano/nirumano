@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 📚 Studied Computer Science @ Western Governors University </br>
 📚 Studied Information Systems @ McMaster University </br>
 💭 Currently learning about iOS Development! </br>
+
+[![Niru's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirumano)](https://github.com/anuraghazra/github-readme-stats)
