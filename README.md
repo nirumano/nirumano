@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Niru! 
+# Hello, I'm Niru! 👋
 
 <!--
 **nirumano/nirumano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
