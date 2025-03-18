@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 🧑🏾‍💻 Software Engineer sharing my journey and learnings in tech </br>
 💼 iOS Software Developer with 4+ YOE Technical Product Manager </br>
-📚 Studied CS @ Western Governors University </br>
+📚 Studied Computer Science @ Western Governors University </br>
 📚 Studied Information Systems @ McMaster University </br>
 💭 Currently learning about iOS Development! </br>
