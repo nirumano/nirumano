@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 💼 iOS Software Developer with 4+ YOE Technical Product Manager </br>
 📚 Studied Computer Science @ Western Governors University </br>
 📚 Studied Information Systems @ McMaster University </br>
+📍 Based in New York, NY (NYC)
 💭 Currently learning about iOS Development! </br>
 
 
