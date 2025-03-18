@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🧑🏾‍💻 Software Engineer sharing about my journey and learnings in tech
-📚 Studied CS @ Western Governors University & Information Systems @ McMaster University 
-💭 Currently learning about iOS Development!
+🧑🏾‍💻 Software Engineer sharing about my journey and learnings in tech </br>
+📚 Studied CS @ Western Governors University & Information Systems @ McMaster University </br>
+💭 Currently learning about iOS Development! </br>
